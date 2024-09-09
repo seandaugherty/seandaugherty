@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean Daugherty <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/seandaugherty/">Cybersecurity Professional
+<h1>Hi, I'm Sean Daugherty <br/> </a>, <a href="https://www.linkedin.com/in/seanpdaugherty/">Cybersecurity Professional
 
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
 
@@ -20,11 +20,11 @@
 
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sean daugherty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: https://linkedin.com/in/seandaugherty
+[linkedin]: https://linkedin.com/in/seanpdaugherty
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
